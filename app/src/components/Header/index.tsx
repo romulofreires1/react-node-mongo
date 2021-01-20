@@ -204,13 +204,6 @@ export default function Header(): ReactElement {
             </div>
           </div>
           <div className={classes.sectionMobile}>
-            <Button
-              onClick={() => rediretTo('/calculator/compound-interest')}
-              backgroundColor="transparent"
-              type="button"
-            >
-              {formatMessage({ id: 'compoundInterest' })}
-            </Button>
             <IconButton
               aria-label="show more"
               aria-controls={mobileMenuId}
