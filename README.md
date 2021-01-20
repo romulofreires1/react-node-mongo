@@ -8,7 +8,7 @@ The authentication part was based on https://bezkoder.com/node-js-mongodb-auth-j
 
 ## Application Preview
 
-https://www.loom.com/share/68886ea81cea46329b10bb0ff02e6c89
+- https://www.loom.com/share/f25cf4fac5944fb99001945c90508a30
 
 ## Requirements
 
